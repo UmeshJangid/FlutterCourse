@@ -8,9 +8,9 @@ Simple Flutter Course
 - Widgets vs View
 - Some Widgets and Syntax/classes in Flutter.
 - Stateful vs Stateful Widgets.
-## Part2:
-// Real Examples
+## Part2: Real Examples
 1. Make Splash Screen
 2. Make Login Form
 
-## Part3 :
+To be Continue..:+1:
+
