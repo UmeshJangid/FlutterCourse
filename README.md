@@ -2,7 +2,7 @@
 Simple Flutter Course
 # Topics covered in this course :
 ## Part1 : 
-1. Introduction Flutter
+- 1. Introduction Flutter
 2.Setup
 3.Flutter hello world.
 4.Widgets vs View
